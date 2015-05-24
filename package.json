@@ -1,0 +1,27 @@
+{
+  "name": "statie",
+  "version": "0.0.1",
+  "description": "State System Runtime & Visualizer",
+  "main": "src/statie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoislaberge/statie.git"
+  },
+  "keywords": [
+    "state",
+    "flow",
+    "chart",
+    "game",
+    "state",
+    "graph"
+  ],
+  "author": "Francois Laberge <francoislaberge@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francoislaberge/statie/issues"
+  },
+  "homepage": "https://github.com/francoislaberge/statie"
+}
